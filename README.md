@@ -17,7 +17,7 @@
 |사다리 타기|`2023-02-14` ~ `2023-02-27`|[java-ladder](https://github.com/woowacourse/java-ladder/tree/ezzanzzan)|[PR 1](https://github.com/woowacourse/java-ladder/pull/120)|[PR 2](https://github.com/woowacourse/java-ladder/pull/243)
 |블랙잭|`2023-02-28` ~ `2023-03-13`|[java-blackjack](https://github.com/woowacourse/java-blackjack/tree/ezzanzzan)|[PR 1](https://github.com/woowacourse/java-blackjack/pull/474)|[PR 2](https://github.com/woowacourse/java-blackjack/pull/579)|
 |체스|`2023-03-14` ~ `2023-03-27`|[java-chess](https://github.com/woowacourse/java-chess/tree/ezzanzzan)|[PR 1](https://github.com/woowacourse/java-chess/pull/498)|[PR 2](https://github.com/woowacourse/java-chess/pull/612)|
-|글쓰기|`2023-03-02` ~ `2023-03-27`|[우아한테크코스 한 달 생활기](https://github.com/ezzanzzan/woowa-writing-5)|[PR](https://github.com/woowacourse/woowa-writing-5/pull/140)|
+|글쓰기|`2023-03-02` ~ `2023-03-27`|[글쓰기](https://github.com/woowacourse/woowa-writing-5/tree/ezzanzzan)|[PR](https://github.com/woowacourse/woowa-writing-5/pull/140)|
 
 ---
 ## 2️⃣ Level 2
@@ -36,3 +36,7 @@
 | Mission | Period | Repository | 1단계 PR | 2단계 PR |
 |:-----:|:-----:|:---:|:---:|:---:|
 |웹 자동차 경주|`2023-04-11` ~ `2023-04-24`|[jwp-racingcar](https://github.com/woowacourse/jwp-racingcar/tree/ezzanzzan)|[PR 1](https://github.com/woowacourse/jwp-racingcar/pull/44)|[PR 2](https://github.com/woowacourse/jwp-racingcar/pull/195) | 
+|쇼핑 장바구니|`2023-04-25` ~ `2023-05-08`|[jwp-shopping-cart](https://github.com/woowacourse/jwp-shopping-cart/tree/ezzanzzan)|[PR 1](https://github.com/woowacourse/jwp-shopping-cart/pull/218)|[PR 2](https://github.com/woowacourse/jwp-shopping-cart/pull/358) | 
+|지하철|`2023-05-09` ~ `2023-05-22`|[jwp-subway-path](https://github.com/woowacourse/jwp-subway-path/tree/ezzanzzan)|[PR 1](https://github.com/woowacourse/jwp-subway-path/pull/38)|[PR 2](https://github.com/woowacourse/jwp-subway-path/pull/206) | 
+|장바구니(협업)|`2023-05-23` ~ `2023-06-05`|[jwp-shopping-order](https://github.com/woowacourse/jwp-shopping-order/tree/ezzanzzan)|-|-| 
+|글쓰기|`2023-05-10` ~ `2023-05-31`|[글쓰기](https://github.com/woowacourse/woowa-writing-5/tree/ezzanzzan)|[PR](https://github.com/woowacourse/woowa-writing-5/pull/264)|
